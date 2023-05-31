@@ -1,3 +1,8 @@
+---
+layout: post
+title: Design Patterns - Making Your Code Flexible and Maintainable
+categories: Principle
+---
 Design Patterns are a set of established solutions to recurring design problems in software development. They provide developers with an easy-to-use technique for building software that is flexible, stable, and maintainable. When applied correctly, they help to establish loose coupling and high cohesion between components of your code, enabling you to build scalable and extensible systems that adapt to future needs. In this blog, we will explore a few of the most important design patterns that promote loose coupling and high cohesion, providing several code examples to illustrate each concept.
 
 ## 1. Observer Pattern
