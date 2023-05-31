@@ -1,3 +1,9 @@
+---
+layout: post
+title: Refactoring - The Key to Continuous Improvement in Software Design
+categories: Principle
+---
+
 Software design is a critical aspect of the software development process. It is a fundamental part of creating software that is maintainable, scalable, and performs efficiently. However, it is unrealistic to expect that every aspect of the design will be perfect the first time around. That's where refactoring comes in. In this blog, we'll explore why it's not necessary to design everything the right way from the beginning, and how we can use refactoring to improve our designs over time.
 
 ## Complex Systems Require Iterative Design
