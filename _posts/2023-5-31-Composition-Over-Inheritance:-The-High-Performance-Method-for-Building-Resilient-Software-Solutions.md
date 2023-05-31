@@ -1,3 +1,8 @@
+---
+layout: post
+title: Composition Over Inheritance - The High-Performance Method for Building Resilient Software Solutions.
+categories: Principle
+---
 When it comes to designing software solutions, there are various techniques at our disposal. Two popular ones are inheritance and composition. While inheritance can help you to reuse code, it can also create dependencies that can lead to hard-to-maintain codebases. That's where composition comes in. In this article, we'll dive into the benefits of using composition over inheritance and how it can improve the loose coupling and high cohesion of your code.
 
 What is Composition?
