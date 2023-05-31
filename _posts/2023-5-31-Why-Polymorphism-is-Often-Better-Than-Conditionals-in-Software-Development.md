@@ -1,3 +1,8 @@
+---
+layout: post
+title: Why Polymorphism is Often Better Than Conditionals in Software Development
+categories: Principle
+---
 Polymorphism and conditional statements are essential elements of software development. Both of them help us to write code that can handle different situations and solve complex problems. However, using polymorphism is often a better choice than conditionals, especially when we consider the principles of loose coupling and high cohesion.
 
 ## Loose Coupling and High Cohesion
