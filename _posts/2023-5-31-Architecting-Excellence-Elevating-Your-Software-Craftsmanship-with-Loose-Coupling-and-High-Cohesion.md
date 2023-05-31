@@ -1,3 +1,9 @@
+---
+layout: post
+title: Architecting Excellence: Elevating Your Software Craftsmanship with Loose Coupling and High Cohesion
+categories: Principle
+---
+
 Loose coupling and high cohesion are fundamental principles in software architecture that contribute to the design, scalability, and maintainability of a system. Understanding these principles not only aids in comprehending and explaining software architectures but also forms the foundation for building effective and adaptable software systems. In OOP languages, polymorphism serves as a key mechanism for achieving loose coupling, while patterns like dependency injection provide the means to wire components together with flexibility and maintainability in mind.
 
 By embracing loose coupling and high cohesion, software architects can create architectures that are robust, extensible, and resilient to change. These principles ensure that modules are independent, focused, and easily replaceable, allowing for seamless modifications and enhancements to the system. Loose coupling enables flexibility and scalability, as modules can be developed and tested independently, leading to faster development cycles and easier maintenance.
