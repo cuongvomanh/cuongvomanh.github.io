@@ -1,5 +1,3 @@
-# An Introduction to The Clean Architecture: Techniques for Improving Software Quality
-
 A good software architecture is essential for a product’s success. A poorly designed architecture can lead to spaghetti code, high coupling, low cohesion, technical debt, and a decrease in productivty. Software architecture principles such as loose coupling and high cohesion are important in designing clean architecture. In this blog, we'll explore what a Clean Architecture is, its benefits, and how loose coupling and high cohesion fit into it with code examples.
 
 What is The Clean Architecture?
