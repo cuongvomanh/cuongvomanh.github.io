@@ -1,3 +1,8 @@
+---
+layout: post
+title: SOLID Principles - Understanding the Importance of Loose Coupling and High Cohesion in Code
+categories: Principle
+---
 As a software developer, you always strive to write clean and maintainable code. The SOLID principles help you design software that is easy to understand, modify, and extend. SOLID is an acronym for five design principles that form the foundation of object-oriented programming. In this post, we'll take a closer look at these principles and how they relate to the concepts of loose coupling and high cohesion, with some code examples to help illustrate the points.
 
 S - Single Responsibility Principle 
