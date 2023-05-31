@@ -1,3 +1,8 @@
+---
+layout: post
+title: Implementing Loose Coupling and High Cohesion in Your Software Projects
+categories: Principle
+---
 In our previous blog post, we introduced the concepts of loose coupling and high cohesion in software development. In this post, we'll go over the practical steps necessary to implement these principles in your own software projects. By doing so, you'll create code that is more modular, maintainable, and scalable.
 
 Step 1: Identify the Functional Areas of Your System
