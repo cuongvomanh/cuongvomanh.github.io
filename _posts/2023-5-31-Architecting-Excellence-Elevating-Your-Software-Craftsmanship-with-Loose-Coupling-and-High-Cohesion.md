@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Architecting Excellence: Elevating Your Software Craftsmanship with Loose Coupling and High Cohesion
+title: Architecting Excellence - Elevating Your Software Craftsmanship with Loose Coupling and High Cohesion
 categories: Principle
 ---
 
