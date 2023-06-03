@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Same Level of Abstraction: Why Loose Coupling and High Cohesion Aren't Enough
+title: Same Level of Abstraction - Why Loose Coupling and High Cohesion Aren't Enough
 categories: [Clean Code, Software Design, Loose Coupling, High Cohesion, Best Practices, Maintainable Code, Code Quality, Software Engineering, Modular Code, Granularity]
 ---
 
