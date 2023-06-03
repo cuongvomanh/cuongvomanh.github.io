@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test-Driven Development - Writing Clean Code with Confidence
-categories: [Test-Driven Development, Clean Code, Automated Testing, Software Engineering, Reliability, Maintainability, Refactoring]
+categories: [Test-Driven Development, Clean Code, Unit Test, Software Engineering, Reliability, Maintainability, Refactoring]
 ---
 
 Test-driven development, or TDD, is a software engineering technique that emphasizes writing automated tests before writing the actual production code. The goal of TDD is to ensure that all aspects of the code function as intended and that bugs and errors are caught early on. In this blog, we’ll explore the principles of TDD and explain how TDD complements Clean Code.
