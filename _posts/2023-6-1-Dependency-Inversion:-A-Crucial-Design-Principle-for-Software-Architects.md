@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Dependency Inversion: A Crucial Design Principle for Software Architects
+title: Dependency Inversion - A Crucial Design Principle for Software Architects
 categories: [Dependency Inversion Principle, DIP, Software architecture, Design patterns, Separation of concerns, Abstractions, Flexible architecture, Maintainable system]
 ---
 
