@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Dependency Inversion - A Crucial Design Principle for Software Architects
