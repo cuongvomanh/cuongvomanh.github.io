@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liskov Substitution Principle with an explanation using Composition Over Inheritance
-categories: [Liskov Substitution Principle, Composition Over Inheritance, Object-Oriented Programming, Inheritance, Composition, Superclass, Subclass, Code Design, Modularity]
+categories: [Liskov Substitution Principle, Composition Over Inheritance, SOLID, Clean Code, Object-Oriented Programming, Inheritance, Composition]
 ---
 
 
